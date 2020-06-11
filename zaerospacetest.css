@@ -2121,12 +2121,12 @@ polyline[stroke*="#7289da"] {
         color: white;
         line-height: 25px;
         font-size: 20px;
-        content: "🔗";
+        content: url(https://i.ibb.co/fDVyhLB/img-upld.png);
         margin-right: .25em
 }
 
 .chatContent-a9vAAp .attachButton-2WznTc>div:hover::before {
-        content: "➕"
+        content: url(https://i.ibb.co/0qs2h6D/resize.png);
 }
 
 .container-PNkimc[aria-label="ᴘᴜʀᴘʟᴇ Community"] .scrollerWrap-2lJEkd {
