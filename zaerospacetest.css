@@ -1709,11 +1709,11 @@ div.userSettingsAccount-2eMFVR>div>.userInfoViewing-16kqK3>div>div:nth-child(2)>
 }
 
 .modeUnread-1zpFdA .name-3_Dsmg:before {
-        content: var(--Unread)!important;
+        content: var(--Unread);
         font-size: 16px;
         border-radius: .25em;
         margin-right: 5px;
-        margin-top: 3px;
+        margin-bottom: -3px;
 }
 
 .menu-Sp6bN1 .status-1AY8sU {
