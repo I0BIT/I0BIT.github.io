@@ -27,7 +27,7 @@
         --HoverMessage: var(--darkgrey5);
         --JoinUs: 'Hey! Wanna have some fun.. Join US !';
         --AddNewServer: '➕ Add a new server';
-        --Close: '🔴';
+        --Close: url(https://i.ibb.co/qxvHbVb/close.png);
         --Resize: '🔵';
         --Hide: '⚫';
         --ProfilePic: 'Watch me';
@@ -43,8 +43,8 @@
         --WelcomeMessage: 'Theme base designed by Purple Wizard.';
         --Watermark: 'Made with 💖 by Purple Wizard';
         --EditStatus: 'Put another status';
-        --Folders: '📁';
-        --FoldersOpen: '💠';
+        --Folders: url(https://i.ibb.co/C1j2b7j/folder.png);
+        --FoldersOpen: url(https://i.ibb.co/zVT41Xz/folder-closed.png);
         --ServerSize: 45px;
 }
 
