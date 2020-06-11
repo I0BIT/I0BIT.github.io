@@ -524,12 +524,12 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         width: 265px
 }
  
-/* .username-1A8OIy {
+.username-1A8OIy {
         background: url(https://i.ibb.co/8xQJnht/header-ver2.png);
         background-repeat: off;
         background-size: contain;
 }
-*/ 
+ 
 .message-2qnXI6.selected-2P5D_Z, .mouse-mode .message-2qnXI6:hover {
         background-color: var(--darkgrey5);
 }
