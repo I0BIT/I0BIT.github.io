@@ -411,13 +411,13 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-        background-color: var(--reddo)!important;
+        background-color: transparent!important;
         border: none!important;
         border-radius: .5em!important;
 }
 
 .scroller-2FKFPG::-webkit-scrollbar {
-        background-color: var(--reddo)!important;
+        background-color: transparent!important;
         width: 1em;
         height: 1em;
 }
@@ -434,7 +434,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 .scroller-2FKFPG::-webkit-scrollbar-corner {
-        background-color: var(--reddo);
+        background-color: transparent;
 }
 
 .membersGroup-v9BXpm {
