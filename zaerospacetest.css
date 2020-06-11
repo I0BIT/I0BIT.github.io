@@ -1712,7 +1712,7 @@ div.userSettingsAccount-2eMFVR>div>.userInfoViewing-16kqK3>div>div:nth-child(2)>
         content: var(--Unread)!important;
         font-size: 16px;
         border-radius: .25em;
-        margin-right: 5px;
+        /* margin-right: 5px; */
 }
 
 .menu-Sp6bN1 .status-1AY8sU {
