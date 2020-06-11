@@ -410,7 +410,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-        background-color: transparent!important;
+        background-color: var(--reddo)!important;
         border: none!important;
         border-radius: .5em!important;
 }
