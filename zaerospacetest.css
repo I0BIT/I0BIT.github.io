@@ -18,6 +18,7 @@
         --grey5: rgba(77, 70, 85, 0.5);
         --darkgrey: rgb(18, 18, 18);
         --darkgrey5: rgba(14, 14, 14, 0.75);
+        --reddo: rgba(252,15,15,.7);
         --version: '2.1';
         --time: 5s;
         --TitleBG: var(--darkgrey5);
