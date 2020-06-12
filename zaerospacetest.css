@@ -555,9 +555,15 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         display: inline-block !important;
         background: url(https://i.ibb.co/QKFpz5v/name-box.png);
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: contain, cover;
 }
  
+/* TEST IF SOMETHING CAN BE PUT BEFORE/AFTER THE HEADER*/
+.header-23xsNx::before {
+        background: url(https://i.ibb.co/jyWmt8s/jsadfkj.png);
+        background-repeat: no-repeat;
+}
+
 .message-2qnXI6.selected-2P5D_Z, .mouse-mode .message-2qnXI6:hover {
         background-color: var(--darkgrey5);
 }
@@ -1317,18 +1323,19 @@ svg.mask-1l8v16>mask>circle[fill="white"] {
 */
 .markup-2BOw-j a {
         color: white;
-        text-shadow: 0 0 0 rgb(0,0,0);
+        text-shadow: 0 0 5px rgb(0,0,0);
 }
 
 .markup-2BOw-j a:hover, .downloadLink-1ywL9o:hover {
         text-decoration: none;
         text-shadow: 0 0 12px;
 }
-
+/* THIS THE CAUSE FOR WEIRD UPSIZED IMAGES??
 .root-1gCeng {
         border-radius: .25em;
         box-shadow: none!important;
 }
+*/
 
 div[aria-label="Add a Server"] .header-3ZP1MY {
         font-size: 0;
