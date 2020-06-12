@@ -95,7 +95,7 @@
 /* test if button svg can be taken out and changed for another:*/
 
 .closeButton-1tv5uR svg {
-        display: var(--Close);
+        display: none!important;
 }
 
 /* .title-3qD0b->.children-19S4PO>.iconWrapper-2OrFZ1.focusable-1YV_-H>.icon-22AiRD CONTAINED IN XXX; INSTEAD TRY */
@@ -561,14 +561,10 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         display: inline-block !important;
         background-image: url(https://i.ibb.co/QKFpz5v/name-box.png);
         background-repeat: no-repeat;
-        background-size: 200%, auto;
+        background-size: 200%, 30px;
 }
  
-/* TEST IF SOMETHING CAN BE PUT BEFORE/AFTER THE HEADER*/
-.header-23xsNx:before {
-        background-image: url(https://i.ibb.co/jyWmt8s/jsadfkj.png);
-        background-repeat: no-repeat;
-}
+/* TEST IF SOMETHING CAN BE PUT BEFORE/AFTER THE HEADER > NO, you cannot*/
 
 .message-2qnXI6.selected-2P5D_Z, .mouse-mode .message-2qnXI6:hover {
         background-color: var(--darkgrey5);
