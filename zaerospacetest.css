@@ -481,7 +481,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 .messageContent-2qWWxC {
-        text-shadow: 2px 2px rgb(0,0,0);
+        text-shadow: 0px 2px 5px rgb(0,0,0);
 }
 
 .avatar-3uk_u9, .channel-2QD9_O .wrapper-3t9DeA, .member-3-YXUe .wrapper-3t9DeA {
@@ -554,7 +554,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 .header-23xsNx {
         background: url(https://i.ibb.co/QKFpz5v/name-box.png);
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: auto;
 }
  
 .message-2qnXI6.selected-2P5D_Z, .mouse-mode .message-2qnXI6:hover {
@@ -1104,7 +1104,7 @@ rect[fill="rgba(240, 71, 71, 1)"], .pointerEvents-2zdfdO[mask^="url(#svg-mask-st
 
 .username-1A8OIy {
         text-shadow: 0 0 5px;
-        margin-left: 5px;
+        margin-left: 12px;
 }
 
 .mask-3OgeRz, .avatarHint-1qgaV3>foreignObject, .svg-1X37T1>foreignObject, .mask-1qbNWk>foreignObject {
