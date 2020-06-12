@@ -2569,7 +2569,7 @@ button[role*="switch"]:after {
         height: 45px;
         width: 45px;
         color: white !important;
-        line-height: 25px;
+        line-height: 16px;
         font-size: 25px;
 }
 
