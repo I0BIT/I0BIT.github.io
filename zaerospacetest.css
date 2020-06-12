@@ -231,7 +231,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         text-shadow: none!important;*/ 
 }
 
-.membersGroup-v98Xpm {
+.membersGroup-v9BXpm {
         background: url(https://i.ibb.co/T2Qk7zT/cut-in-test-smol.png);
         /*background-repeat: no-repeat;*/
 }
@@ -394,6 +394,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 .channelTextArea-rNsIhG, .scrollableContainer-2NUZem {
+        margin: 0;
         padding: 8px;
         min-height: 50px;
         border-radius: 0;
