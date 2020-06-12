@@ -464,6 +464,10 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         cursor: pointer;
 }
 
+.messageContent-2qWWxC {
+        text-shadow: 2px 2px rgb(0,0,0);
+}
+
 .avatar-3uk_u9, .channel-2QD9_O .wrapper-3t9DeA, .member-3-YXUe .wrapper-3t9DeA {
         width: 26px!important;
         height: 26px!important
@@ -532,7 +536,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
  
 .header-23xsNx {
-        background: url(https://i.ibb.co/thJ9yHc/header-ver2.png);
+        background: url(https://i.ibb.co/QKFpz5v/name-box.png);
         background-repeat: no-repeat;
         background-size: contain;
 }
