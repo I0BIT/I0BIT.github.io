@@ -114,6 +114,7 @@
         border: none;
 }
 
+/* FOR RED SIDEBAR*/ 
 .members-1998pB {
         background: var(--reddo);!important;
         -webkit-box-shadow: none!important;
@@ -121,6 +122,12 @@
         border: none;
         
 }
+
+.members-374922352384933889 {
+        background: var(--reddo)!important;       
+}
+
+
 
 .categoryWrapper-UZ5YNj, .appMount-3lHmkl, .container-16j22k {
         background: transparent !important;
