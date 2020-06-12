@@ -231,10 +231,10 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         text-shadow: none!important;*/ 
 }
 
-.membersGroup-v98Xpm, .name-IbjUBS {
+.membersGroup-v98Xpm {
         background: url(https://i.ibb.co/55Q1vMp/cut-in-test-2.png);
         /*background-repeat: no-repeat;*/
-        background-size: contain;
+        background-size: 238px 40px;
 }
 
 /* this adds shitty bg animation to all*/
@@ -443,7 +443,6 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 .membersGroup-v9BXpm {
-        background: url(https://i.ibb.co/55Q1vMp/cut-in-test-2.png);
         text-align: center;
         margin-bottom: 10px;
         margin-left: 10px;
@@ -551,7 +550,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 .fontSize16Padding-3Wk7zP {
-        padding: 10px 10px 10px;
+        padding: 18px 10px 10px;
 }
 
 .wrapper-CU3qI5, .header-2RyJ0Y, .ui-tab-bar-header {
@@ -583,7 +582,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 
 .containerDefault-3GGEv_ {
         background: url(https://i.ibb.co/55Q1vMp/cut-in-test-2.png);
-        background-size: contain;
+        background-size: 258px 24px;
         padding-top: 0px;
         padding-bottom: 0px;
         
