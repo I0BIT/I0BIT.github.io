@@ -555,7 +555,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         display: inline-block !important;
         background: url(https://i.ibb.co/QKFpz5v/name-box.png);
         background-repeat: no-repeat;
-        /*background-size: contain;*/
+        background-size: cover;
 }
  
 .message-2qnXI6.selected-2P5D_Z, .mouse-mode .message-2qnXI6:hover {
@@ -572,7 +572,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 .fontSize16Padding-3Wk7zP {
-        padding: 10px 10px 10px;
+        padding: 10px 10px 10px 10px;
 }
 
 .wrapper-CU3qI5, .header-2RyJ0Y, .ui-tab-bar-header {
@@ -747,7 +747,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         width: 265px;
         padding: 0;
 }
-
+/* might make image original sizing weird, i dunno
 .root-1gCeng {
         max-height: -webkit-fill-available;
         width: 100%;
@@ -755,7 +755,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         margin-top: 20px;
         overflow-y: auto;
 }
-
+*/
 .footer-1fjuF6 {
         padding: 0;
         border-color: transparent!important;
@@ -1460,10 +1460,11 @@ div.userSettingsAccount-2eMFVR>div>.userInfoViewing-16kqK3>div>div:nth-child(2)>
         margin: 0em .5em .25em 0em;
 }
 
+/*DOES THIS CAUSE  "Nachricht an misc chat" shift???
 .chat-3bRxxu>div.content-yTz4x3>div>form>div>div>div>div.textArea-12jD-V>.placeholder-37qJjk {
         color: white;
 }
-
+*/
 .lookFilled-1Gx00P.colorGreen-29iAKY, .lookFilled-1Gx00P.colorGreen-29iAKY:hover, .lookInverted-2D7oAl.colorBrand-3pXr91, .lookInverted-2D7oAl.colorBrand-3pXr91:hover {
         color: white;
         text-shadow: 0 0 12px;
