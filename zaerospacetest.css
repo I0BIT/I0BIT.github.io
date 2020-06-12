@@ -559,14 +559,14 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
  
 .header-23xsNx {
         display: inline-block !important;
-        background: url(https://i.ibb.co/QKFpz5v/name-box.png);
+        background-image: url(https://i.ibb.co/QKFpz5v/name-box.png);
         background-repeat: no-repeat;
-        background-size: contain, cover;
+        background-size: 200%, auto;
 }
  
 /* TEST IF SOMETHING CAN BE PUT BEFORE/AFTER THE HEADER*/
-.header-23xsNx::before {
-        background: url(https://i.ibb.co/jyWmt8s/jsadfkj.png);
+.header-23xsNx:before {
+        background-image: url(https://i.ibb.co/jyWmt8s/jsadfkj.png);
         background-repeat: no-repeat;
 }
 
@@ -1478,6 +1478,12 @@ div.userSettingsAccount-2eMFVR>div>.userInfoViewing-16kqK3>div>div:nth-child(2)>
         color: white;
 }
 */
+/* test if this fixes textfield placeholder size problem */
+.placeholder-37qJjK {
+        width: auto;
+        height: 22px;
+}
+
 .lookFilled-1Gx00P.colorGreen-29iAKY, .lookFilled-1Gx00P.colorGreen-29iAKY:hover, .lookInverted-2D7oAl.colorBrand-3pXr91, .lookInverted-2D7oAl.colorBrand-3pXr91:hover {
         color: white;
         text-shadow: 0 0 12px;
