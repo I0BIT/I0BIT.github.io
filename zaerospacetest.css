@@ -518,8 +518,8 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
 
 /* PROFILE */
-
-.backdrop-1wrmKB, .backdropWithLayer-3_uhz4 {
+/*.backdropWithLayer-3_uhz4 CONTAINED IN FIRST ONE BELOW. WHY?? */
+.backdrop-1wrmKB {
         opacity: 0!important;
 }
 
@@ -1304,7 +1304,8 @@ svg.mask-1l8v16>mask>circle[fill="white"] {
         background: var(--darkgrey5);
 }
 
-.anchor-3Z-8Bb.downloadLink-1ywL9o {
+/* WEIRD WHEN OPENING A LINK, COULD THIS FOLLOWING PART BE THE REASON?? */
+/* .anchor-3Z-8Bb.downloadLink-1ywL9o {
         opacity: 1;
         color: white;
         width: 100%;
@@ -1312,7 +1313,7 @@ svg.mask-1l8v16>mask>circle[fill="white"] {
         text-align: center;
         background-color: var(--darkgrey5);
 }
-
+*/
 .markup-2BOw-j a {
         color: white;
 }
