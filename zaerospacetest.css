@@ -95,7 +95,7 @@
 /* test if button svg can be taken out and changed for another:*/
 
 .closeButton-1tv5uR svg {
-        content: var(--Close);
+        display: var(--Close);
 }
 
 /* .title-3qD0b->.children-19S4PO>.iconWrapper-2OrFZ1.focusable-1YV_-H>.icon-22AiRD CONTAINED IN XXX; INSTEAD TRY */
@@ -1839,7 +1839,6 @@ div.userSettingsAccount-2eMFVR>div>.userInfoViewing-16kqK3>div>div:nth-child(2)>
 .closeButton-1tv5uR {
         border: none!important;
         border-radius: .5em;
-        background: url(--Close);
         background-size : 36px 36px;
 }
 
