@@ -225,10 +225,16 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         background-size: 1000% 500%!important;
         font-weight: bold!important;
         color: var(--MainColor)!important;
-        -webkit-background-clip: text!important;
+        /*-webkit-background-clip: text!important;
         background-clip: text!important;
         -webkit-text-fill-color: transparent!important;
-        text-shadow: none!important;
+        text-shadow: none!important;*/ 
+}
+
+.membersGroup-v98Xpm, .name-IbjUBS {
+        background: url(https://i.ibb.co/55Q1vMp/cut-in-test-2.png);
+        background-repeat: no-repeat;
+        background-size: contain;
 }
 
 /* this adds shitty bg animation to all*/
@@ -528,7 +534,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 .header-23xsNx {
         background: url(https://i.ibb.co/thJ9yHc/header-ver2.png);
         background-repeat: no-repeat;
-        background-size: auto;
+        background-size: contain;
 }
  
 .message-2qnXI6.selected-2P5D_Z, .mouse-mode .message-2qnXI6:hover {
@@ -818,6 +824,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 
 .form-2fGMdU {
         padding: 0!important;
+        margin-top: 8px;
 }
 
 .emojiPicker-3m1S-j {
@@ -1991,7 +1998,7 @@ a.channel-2QD9_O {
         pointer-events: none;
         background: var(--grey);
         color: #fff;
-        margin-left: 3px;
+        margin-left: 6px;
         font-size: 12px;
         border-radius: .25em;
         padding: 0 5px;
