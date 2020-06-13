@@ -564,10 +564,10 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
  
 .header-23xsNx {
-        /* display: inline-block !important; /* DOES IT REALLY NEED THIS??*/
+        display: inline-block !important; /* DOES IT REALLY NEED THIS??*/
         background: url(https://i.ibb.co/QKFpz5v/name-box.png) center;
         background-repeat: no-repeat;
-        background-size: auto 100%;        
+        background-size: 100% auto;        
 }
  
 /* TEST IF SOMETHING CAN BE PUT BEFORE/AFTER THE HEADER > NO, you cannot*/
@@ -915,7 +915,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         background: transparent;
         line-height: 1em;
         font-size: .75em;
-        margin-top: 1.75em;
+        margin-top: 0.75em;
         font-weight: 600;
 }
 
@@ -2068,6 +2068,7 @@ a.channel-2QD9_O {
 }
 
 .title-3qD0b- .children-19S4PO {
+        background: var(--grey5);
         padding-bottom: 20px;
 }
 
