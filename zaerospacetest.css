@@ -861,7 +861,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 
 .form-2fGMdU {
         padding: 0!important;
-        margin-top: 8px;
+        margin-top: 16px;
 }
 
 .emojiPicker-3m1S-j {
@@ -2614,7 +2614,7 @@ button[role*="switch"]:after {
         width: 45px;
         color: white !important;
         line-height: 16px;
-        font-size: 25px;
+        font-size: 16px;
 }
 
 .uploadModal-2ifh8j .emojiButton-3uL3Aw::before, .chatContent-a9vAAp .channelTextArea-rNsIhG .emojiButton-3uL3Aw::before {
