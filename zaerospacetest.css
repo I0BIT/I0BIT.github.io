@@ -38,8 +38,8 @@
         --Voice: "🔊";
         --Micro: "🎙️";
         --Headset: url(https://i.ibb.co/jfCCpyc/headset.png);
-        --Emoji: '🙂';
-        --EmojiHover: '😜';
+        --Emoji: url(https://i.ibb.co/B4wwMn7/emotes-45-X45.png);
+        --EmojiHover: url(https://i.ibb.co/mSbpQXT/emotes-hl-45-X45.png);
         --Community: 'purpies';
         --WelcomeMessage: 'Theme base designed by Purple Wizard.';
         --Watermark: 'Made with 💖 by Purple Wizard';
@@ -124,8 +124,8 @@
 
 /*TOOLBAR TESTING */
 
-.toolbar-1t5T {
-
+.toolbar-1t6TWx {
+        margin-right:
 }
 
 /* BACKGROUND */
@@ -575,7 +575,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 .timestamp-3ZCmNB {
         background-image: url(https://i.ibb.co/Jk9VzL6/date-box.png);
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
 }
 
 
@@ -1129,7 +1129,7 @@ rect[fill="rgba(240, 71, 71, 1)"], .pointerEvents-2zdfdO[mask^="url(#svg-mask-st
 .username-1A8OIy {
         background-image: url(https://i.ibb.co/Hgrvfx0/username-box.png);
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
         text-shadow: 0 0 5px;
         margin-left: 20px;
 }
@@ -2073,6 +2073,11 @@ a.channel-2QD9_O {
         font-size: 20px;
         content: var(--Channel);
         -webkit-text-fill-color: white;
+        margin-top: 8px;
+}
+
+.title-29uC1r {
+        margin-top: 8px       
 }
 
 .title-3qD0b- .divider-3FBTu8 {
