@@ -564,7 +564,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
  
 .header-23xsNx {
-        display: inline-block !important; /* DOES IT REALLY NEED THIS??*/
+       /* display: inline-block !important; /* DOES IT REALLY NEED THIS??*/
         background: url(https://i.ibb.co/QKFpz5v/name-box.png) center;
         background-repeat: no-repeat;
         background-size: 100% auto;        
@@ -915,7 +915,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
         background: transparent;
         line-height: 1em;
         font-size: .75em;
-        margin-top: 0.75em;
+        margin-top: 0.35em;
         font-weight: 600;
 }
 
@@ -1646,8 +1646,8 @@ div.userSettingsAccount-2eMFVR>div>.userInfoViewing-16kqK3>div>div:nth-child(2)>
         color: white;
         line-height: 25px;
         font-size: 25px;
-        height: auto;
-        width: auto;
+        height: 100%;
+        width: 100%;
         content: var(--Emoji);
         -webkit-text-fill-color: white;
 }
@@ -2069,7 +2069,7 @@ a.channel-2QD9_O {
 
 .title-3qD0b- .children-19S4PO {
         background: var(--grey5);
-        padding-bottom: 20px;
+        padding-bottom: 14px;
 }
 
 .title-3qD0b- .topic-TCb_qw {
