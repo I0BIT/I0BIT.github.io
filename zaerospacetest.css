@@ -559,10 +559,9 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 }
  
 .header-23xsNx {
-        display: inline-block !important;
-        background-image: url(https://i.ibb.co/QKFpz5v/name-box.png);
-        background-size: cover;
-        background-position-y: center;
+        /* display: inline-block !important; /* DOES IT REALLY NEED THIS??*/
+        background: url(https://i.ibb.co/QKFpz5v/name-box.png) center repeat-x;
+        background-size: auto 100%;        
 }
  
 /* TEST IF SOMETHING CAN BE PUT BEFORE/AFTER THE HEADER > NO, you cannot*/
