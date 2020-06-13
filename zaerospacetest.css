@@ -1646,8 +1646,8 @@ div.userSettingsAccount-2eMFVR>div>.userInfoViewing-16kqK3>div>div:nth-child(2)>
         color: white;
         line-height: 25px;
         font-size: 25px;
-        height: 25px;
-        width: 25px;
+        height: auto;
+        width: auto;
         content: var(--Emoji);
         -webkit-text-fill-color: white;
 }
