@@ -620,7 +620,7 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
 
 .content-1o0f9g {
         background: transparent;
-        margin-top: 1.5em;
+        margin-top: .25em;
         font-size: .85em;
 }
 
@@ -2060,10 +2060,10 @@ a.channel-2QD9_O {
 .title-29uC1r {
         margin-top: 8px       
 }
-
+/*
 .title-3qD0b- .divider-3FBTu8 {
         display: none
-}
+}*/
 
 .title-3qD0b- .children-19S4PO {
         background: var(--grey5);
